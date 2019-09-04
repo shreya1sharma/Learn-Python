@@ -9,4 +9,3 @@ This repository contains the basics of python, simple projects and tips on effic
 - [ ] Efficient coding - refactoring, object-oriented programming
 - [ ] Code management using git 
 - [ ] GUI in python using Flask and PyQT
-
