@@ -1,5 +1,5 @@
 # Learn-Python
-This repository contains the basics of python, basic programs and tips on efficient coding
+This repository contains the basics of python, simple projects and tips on efficient coding.
 
 **To-do**
 - [ ] Basic python syntax - data structures, lopps, conditionals, classes and objects, file-handling
