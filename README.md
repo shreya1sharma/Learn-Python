@@ -1,7 +1,7 @@
 # Learn-Python
 This repository contains the basics of python, basic programs and tips on efficient coding
 
-To-do 
+**To-do**
 - [ ] Basic python syntax - data structures, lopps, conditionals, classes and objects, file-handling
 - [ ] MIT Course - Introduction to computer science with python
 - [ ] Python for data science - numpy, pandas, matplotlib, sklearn
