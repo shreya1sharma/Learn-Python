@@ -9,4 +9,8 @@ This repository contains the basics of python, simple projects and tips on effic
 - [ ] Code management using git (3 days)
 - [ ] Creating web app using Flask (1 week)
 - [ ] GUI in python using PyQT (1 week)
-- [ ] Efficient coding - refactoring, object-oriented programming, Book summary-Clean Code (4 weeks)
+- [ ] Efficient coding - refactoring, object-oriented programming, 
+- [ ] Read Book-Clean Code (4 weeks)
+
+**References**
+[https://pythonspot.com/beginner/](https://pythonspot.com/beginner/)
