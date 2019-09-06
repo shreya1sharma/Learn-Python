@@ -13,4 +13,5 @@ This repository contains the basics of python, simple projects and tips on effic
 - [ ] Read Book-Clean Code (4 weeks)
 
 **References**
+
 [https://pythonspot.com/beginner/](https://pythonspot.com/beginner/)
