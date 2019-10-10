@@ -1,5 +1,0 @@
-# list
-
-```python
-  hello
-```
