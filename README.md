@@ -2,7 +2,7 @@
 This repository contains the basics of python, simple projects and tips on efficient coding.
 
 **To-do**
-- [ ] Basic python syntax - data structures, lopps, conditionals, classes and objects, file-handling (2 weeks)
+- [ ] Basic python syntax - data structures, loops, conditionals, classes and objects, file-handling (2 weeks)
 - [ ] MIT Course - Introduction to computer science with python (3 weeks)
 - [ ] Python for data science - numpy, pandas, matplotlib, sklearn (2 weeks)
 - [ ] 2 easy Kaggle projects (2 weeks)
