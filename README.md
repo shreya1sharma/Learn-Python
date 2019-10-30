@@ -15,4 +15,5 @@ This repository contains the basics of python, simple projects and tips on effic
 **References**
 
 [https://pythonspot.com/beginner/](https://pythonspot.com/beginner/)
+
 [https://pynative.com/](https://pynative.com/)
